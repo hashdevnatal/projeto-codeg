@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: HashDev Blog
+email: hashdevnatal@gmail.com
+description: "Blog feito para o projeto HashDev criado por Késsia Castro Corrêa, Samuel Hendrix Dantas de Oliveira e
+Luciano Eduardo Dantas com o intuito que compartilharmos assuntos voltado para tecnologia, pequenos projetos
+que existirão ao longo do tempo, etc."
+baseurl: "/projeto-codeg" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  CriarDepois
+
+# Build settings
+markdown: kramdown
+permalink: /:title
